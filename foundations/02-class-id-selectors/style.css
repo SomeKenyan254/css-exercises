@@ -1,0 +1,17 @@
+p.odd{
+ background-color: rgb(232, 124, 124);
+ font-family: Verdana, "Dejavu sans" , sans-serif;}
+.font{
+    font-size: 24px;
+}
+
+#one{
+    color:rgb(8, 0, 255);
+    font-size: 36px;
+}
+#two{
+    background-color: rgb(128, 238, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
+
